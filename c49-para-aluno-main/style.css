@@ -1,0 +1,27 @@
+* {
+    border: solid;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: coral;
+}
+
+.header {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu {
+    text-align: center;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
